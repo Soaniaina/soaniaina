@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soaniaina)](https://github.com/Soaniaina/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soaniaina&langs_count=8)
 [![Soaniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soaniaina)](https://github.com/Soaniaina/github-readme-stats)
