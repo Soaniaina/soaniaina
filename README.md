@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soaniaina)](https://github.com/Soaniaina/github-readme-stats)
 [![Soaniaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soaniaina)](https://github.com/Soaniaina/github-readme-stats)
